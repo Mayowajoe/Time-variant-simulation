@@ -1,0 +1,1 @@
+For this project, I simulated 2500 samples data using different probability models (geometric, binomial, Poisson, exponential, and normal), with age as a key factor. I splited the data by age, compute the mean, and repeat the process 100 times to analyze how variability affects the results.
